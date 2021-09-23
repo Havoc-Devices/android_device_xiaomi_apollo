@@ -16,8 +16,6 @@ $(call inherit-product, vendor/havoc/config/common_full_phone.mk)
 
 # Havoc Bringup
 HAVOC_BUILD_TYPE := Official
-HAVOC_MAINTAINER := sewa2k
-HAVOC_GROUP_URL := https://t.me/HavocOS_apollo
 
 TARGET_GAPPS_ARCH := arm64
 IS_PHONE := true
